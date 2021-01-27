@@ -12,4 +12,4 @@ A rough outline of how the scraper works:
 3. A connection to local MySQL database is created. The data is then inserted into the database. (The database was created beforehand with the columns and keys).
 4. Data can be retrieved and tokenized using NLTK for data analysis purposes.
 
-Please check my scraper out! Hopefully it will be useful to you. Please leave suggestions and comments if you'd like to help this newbie improve.
+Please check my scraper out! Hopefully it will be useful to you. Please leave suggestions and comments if you'd like to help this newbie improve. I will continue working on improving it and improving the documentation as well :)
